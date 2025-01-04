@@ -6,7 +6,7 @@
 
 •📖 I'm currently learning Web Development, Python, SQL and more
 
-•💡 I'm currently exploring new technologies, contributing to open-source, and seeking opportunities to learn and collaborate.
+•💡 I'm also currently exploring new technologies, contributing to open-source, and seeking opportunities to learn and collaborate.
 
 •📧 How to reach me... email:jreed041@lab.cpcc.edu
 
