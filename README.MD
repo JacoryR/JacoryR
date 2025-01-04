@@ -1,5 +1,5 @@
 # 👨🏾‍💻 About Me:
-•👋Hi, Welcome to my GitHub<br><br>•I'm Jacory Reed<br><br>•I'm interested in 💻Full Stack Engineering and ☁️ Cloud Engineering<br><br>•📖 I'm currently learning Web Development, Python, SQL and more<br><br>•💡 I'm also currently exploring new technologies, contributing to open-source, and seeking opportunities to learn and collaborate.<br><br>•📧 How to reach me... email:jreed041@lab.cpcc.edu<br><br>•Let's connect! Feel free to check out my projects below 👇
+•👋Hi, Welcome to my GitHub<br><br>•I'm Jacory Reed<br><br>•I'm interested in 💻Full Stack Engineering, ☁️ Cloud Engineering and CyberSecurity<br><br>•📖 I'm currently learning Web Development, Python, SQL and more<br><br>•💡 I'm also currently exploring new technologies, contributing to open-source, and seeking opportunities to learn and collaborate.<br><br>•📧 How to reach me... email:jreed041@lab.cpcc.edu<br><br>•Let's connect! Feel free to check out my projects below 👇
 
 
 # 💻 Tech Stack:
